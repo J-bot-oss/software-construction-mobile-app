@@ -24,9 +24,7 @@ Spotify allows users to stream music and podcasts without purchasing or download
 - Searching for songs, albums, artists, and playlists  
 - Music streaming and playback  
 - Playlist creation and management  
-- Personalized recommendations  
-- Offline downloads (Premium only)  
-- Notifications for new releases  
+- Personalized recommendations    
 
 ## Part B: Behind the Scenes
 
