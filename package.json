@@ -1,0 +1,29 @@
+{
+  "name": "juice-app",
+  "version": "1.0.0",
+  "description": "A simple juice ordering mobile app",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~51.0.0",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "keywords": [
+    "juice",
+    "mobile",
+    "app",
+    "react-native"
+  ],
+  "author": "Software Construction Team",
+  "license": "MIT"
+}
