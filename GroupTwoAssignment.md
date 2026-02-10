@@ -8,7 +8,7 @@ solve a specific problem and it does not cater for future requirements while Sof
 construction involves building the system such that when other developers join they can be able  
 to understand it, when the number of students increases the system can still handle the big  
 number and if there is need for the system to be updated it can be done easily without breaking  
-the whole code.
+the whole code. In addition, software construction emphasizes version control and incremental changes are made over time so the system can evolve safely without losing stability.
 
 ## 2. Situation where poor maintainability could cause serious problems.
 
