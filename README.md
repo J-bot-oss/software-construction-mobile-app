@@ -8,7 +8,7 @@ This repository contains our analysis and documentation for a software construct
 ### 1. App Overview
 
 **What problem does Spotify solve?**  
-Spotify allows users to stream music and podcasts without purchasing or downloading audio files individually. It provides instant access to a massive online library and helps users discover new content based on their listening habits.
+Spotify allows users to stream music and podcasts without purchasing or downloading audio files individually. It provides instant access to a massive online library and helps users discover new content based on their listening habits. Additionally, Spotify addresses scalability and accessibility by offering cloud based, personalized content that can be accessed seamlessly across multiple devices by millions of users.
 
 **Primary Users**
 - Everyday music listeners  
