@@ -1,0 +1,76 @@
+[33mcommit 1efa25b950a935a3d6b2a4d4d0362f430146cf83[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32massessment-ringtho[m[33m)[m
+Author: Marlyn Somers <marlynsomers362@gmail.com>
+Date:   Wed Feb 11 17:31:50 2026 +0300
+
+    Am learning how to add and commit files
+
+[33mcommit fb27c7e831e5847657e927d380e744b4eef74d89[m[33m ([m[1;31morigin/update-readme[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/html-skeleton[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d82921b a3cea70
+Author: Ebong Jesse Johnson <jesseebong656@gmail.com>
+Date:   Tue Feb 10 03:21:44 2026 +0300
+
+    Merge pull request #4 from J-bot-oss/J-bot-oss-patch-1
+    
+    Enhance app overview with scalability and accessibility details
+
+[33mcommit a3cea70ba58bdd66de57c23da0109737ae1e684b[m[33m ([m[1;31morigin/J-bot-oss-patch-1[m[33m)[m
+Author: Ebong Jesse Johnson <jesseebong656@gmail.com>
+Date:   Tue Feb 10 03:18:12 2026 +0300
+
+    Enhance app overview with scalability and accessibility details
+    
+    Expanded on Spotify's problem-solving capabilities by highlighting scalability and accessibility features.
+
+[33mcommit d82921b1d39fda8d5b40e9383dcd5c95fe0458aa[m
+Author: Ebong Jesse Johnson <jesseebong656@gmail.com>
+Date:   Tue Feb 10 03:12:03 2026 +0300
+
+    Enhance explanation of software construction principles
+    
+    Added emphasis on version control and incremental changes in software construction.
+
+[33mcommit 4595830c4bb90a0ed515602a26984d4d98e0c818[m
+Merge: 078b8f3 2f1ed1b
+Author: Kobumanzi Trishia <kobu2rsha@gmail.com>
+Date:   Sat Feb 7 17:00:58 2026 +0300
+
+    Merge pull request #3 from J-bot-oss/My-First-Branch
+    
+    Kobumanzi Trishia
+    Created my first file for practice.
+
+[33mcommit 2f1ed1b58ebeba72c672dd6795b62859361963ec[m[33m ([m[1;31morigin/My-First-Branch[m[33m)[m
+Author: Kobumanzi Trishia <kobu2rsha@gmail.com>
+Date:   Sat Feb 7 16:39:49 2026 +0300
+
+    Created my first file
+
+[33mcommit 078b8f3b64ba34b33f11f329dd6dac8760126120[m
+Author: MwesigwaSimonPeter <mwesigwasimonpeter2004@gmail.com>
+Date:   Wed Feb 4 21:33:28 2026 +0300
+
+    Software Construction Assignment by Group Two
+    
+    This assignment is about understanding Software Construction and Collaboration
+
+[33mcommit 38e446e04cedc6873cb49828f34dede27eb0943f[m
+Author: Ebong Jesse Johnson <jesseebong656@gmail.com>
+Date:   Thu Jan 22 07:21:50 2026 +0300
+
+    Update README to remove certain features
+    
+    Removed features from the README related to personalized recommendations, offline downloads, and notifications.
+
+[33mcommit 0869d94acd14ceffbffb2e82984f5cc03bd99bd5[m
+Author: MwesigwaSimonPeter <mwesigwasimonpeter2004@gmail.com>
+Date:   Thu Jan 22 01:38:02 2026 +0300
+
+    Update README with Spotify analysis and documentation
+    
+    Added detailed analysis and documentation for the Spotify software construction exercise, covering app overview, core features, behind-the-scenes components, change scenarios, and software construction challenges.
+
+[33mcommit 229a4b26b2b8058ce3a98771737892728be1b9c1[m
+Author: Ebong Jesse Johnson <jesseebong656@gmail.com>
+Date:   Tue Jan 20 19:04:27 2026 +0300
+
+    Initial commit
